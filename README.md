@@ -1,7 +1,7 @@
 
 # Alec's Programming Portfolio
 
-[![License: StevensIT License v1.0](https://img.shields.io/badge/License-StevensIT%20License%20v1.0-F7F5F0?style=flat-square&logoColor=white&labelColor=191F27)](./LICENSE)
+[![License: StevensIT License v1.0](https://img.shields.io/badge/License-StevensIT%20License%20v1.0-F7F5F0?style=flat-square&logoColor=white&labelColor=191F27)](./LICENSE.md)
 ![Status: Not Maintained](https://img.shields.io/badge/status-not--maintained-0A0A23?style=flat-square&labelColor=0A0A23&color=E53935)
 ![Open Issues](https://img.shields.io/github/issues/arste890/Programming1Portfolio?style=flat-square&labelColor=0A0A23)
 ![Last Commit](https://img.shields.io/github/last-commit/arste890/Programming1Portfolio?style=flat-square&labelColor=0A0A23)
