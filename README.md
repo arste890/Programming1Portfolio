@@ -11,11 +11,6 @@
   <img src="https://github.com/arste890/SAC/blob/main/StevensIT-Logo.png?raw=true" alt="StevensIT Logo" width="120"/>
 </a>
 
-## Overview
-
-This repository contains original front-end assets (HTML and CSS) developed by **StevensIT**, a division of **StevensED LLC**.  
-These materials are protected under the **StevensIT License v1.0**, and are intended solely for **non-commercial**, **educational**, **personal**, or **research-based** use.
-
 ## License & Attribution
 
 All contents of this repository are licensed under the **StevensIT License v1.0**.  
