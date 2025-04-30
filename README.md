@@ -1,37 +1,40 @@
-## Welcome to Alec's Programming Portfolio
 
-You can use the [editor on GitHub](https://github.com/alec808/Programming1Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Alec's Programming Portfolio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![License: StevensIT License v1.0](https://img.shields.io/badge/License-StevensIT%20License%20v1.0-F7F5F0?style=flat-square&logoColor=white&labelColor=191F27)](./LICENSE)
+![Built With: HTML & CSS](https://img.shields.io/badge/Built%20with-HTML%20%26%20CSS-0A0A23?style=flat-square&logo=html5&logoColor=white&labelColor=0A0A23)
+![Status: Maintained](https://img.shields.io/badge/status-maintained-0A0A23?style=flat-square&labelColor=0A0A23&color=4CAF50)
+![Open Issues](https://img.shields.io/github/issues/arste890/Programming1Portfolio?style=flat-square&labelColor=0A0A23)
+![Last Commit](https://img.shields.io/github/last-commit/arste890/Programming1Portfolio?style=flat-square&labelColor=0A0A23)
+![Repo Size](https://img.shields.io/github/repo-size/arste890/Programming1Portfolio?style=flat-square&labelColor=0A0A23)
 
-### Markdown
+<a href="./LICENSE">
+  <img src="https://github.com/arste890/SAC/blob/main/StevensIT-Logo.png?raw=true" alt="StevensIT Logo" width="120"/>
+</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Overview
 
-```markdown
-Syntax highlighted code block
+This repository contains original front-end assets (HTML and CSS) developed by **StevensIT**, a division of **StevensED LLC**.  
+These materials are protected under the **StevensIT License v1.0**, and are intended solely for **non-commercial**, **educational**, **personal**, or **research-based** use.
 
-# Header 1
-## Header 2
-### Header 3
+## License & Attribution
 
-- Bulleted
-- List
+All contents of this repository are licensed under the **StevensIT License v1.0**.  
+Commercial use, sublicensing, redistribution, or modification for profit is **strictly prohibited** without prior written permission.  
+Any permitted use must include proper attribution:
 
-1. Numbered
-2. List
+> "Developed by StevensIT, a Division of StevensED LLC. Used under the StevensIT License v1.0."
 
-**Bold** and _Italic_ and `Code` text
+Please refer to the [LICENSE](./LICENSE) file for full terms and conditions.
 
-[Link](url) and ![Image](src)
-```
+## Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To request commercial licensing or obtain written permission for broader use, please contact:
 
-### Jekyll Themes
+**StevensIT**  
+Email: report@StevensED.org  
+Website: [IT.StevensED.org](https://IT.StevensED.org)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alec808/Programming1Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+© 2025 StevensED LLC | StevensIT. All rights reserved.
